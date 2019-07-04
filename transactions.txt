@@ -1,2 +1,3 @@
 init file
 student created
+student2 created
